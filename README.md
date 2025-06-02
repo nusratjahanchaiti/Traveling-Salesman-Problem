@@ -62,6 +62,7 @@ Time complexity is **O(n² * 2ⁿ)**, where `n` is the number of cities.
 
 - `TSP.cpp`: C++ source file containing the full implementation.
 - `README.md`: Project documentation (this file).
+- `Report246Project.pdf`: Contain Report of this project
 
 ---
 
