@@ -7,7 +7,7 @@ This project implements a solution to the **Traveling Salesman Problem (TSP)** u
 This was developed as part of my **Algorithms (CSE 246) course project** at university.
 
 ---
-## 🧠 Problem Statement
+##  Problem Statement
 
 Given a list of cities and the cost of travel between each pair, find the shortest possible route that:
 - Starts from a given city
@@ -15,14 +15,6 @@ Given a list of cities and the cost of travel between each pair, find the shorte
 - Returns to the starting city
 
 ---
-### 📚 Why is TSP Important?
-
--  It is a fundamental **NP-Hard problem**, meaning it cannot be solved efficiently for large inputs using brute-force.
--  It has widespread applications:
-  - **Logistics and delivery routing**
-  - **Manufacturing** (e.g., drilling PCBs)
-  - **Genome sequencing**
-  - **Travel planning and scheduling**
 
 ##  Features
 
@@ -66,14 +58,14 @@ Time complexity is **O(n² * 2ⁿ)**, where `n` is the number of cities.
 
 ---
 
-## ✅ Requirements
+##  Requirements
 
 - C++11 or higher
 - Standard I/O (no additional libraries needed)
 
 ---
 
-## 💡 Concepts Used
+##  Concepts Used
 
 - Bitmasking
 - Dynamic Programming
